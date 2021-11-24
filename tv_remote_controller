@@ -1,6 +1,4 @@
 #Screen that shows you can do.
-
-
 print("""
 ***CHANNELS***
 
@@ -21,11 +19,13 @@ Quit(q)
 """)
 
 
+
 volume=15   #Volume parameter
 
 channel=1   #Channel parameter
 
 dict_channels={1:"TRT",2:"ATV",3:"KANAL D",4:"FOX TV",5:"TV 8",6:"CARTOON NETWORK"}   #Dict of channels
+
 
 
 
